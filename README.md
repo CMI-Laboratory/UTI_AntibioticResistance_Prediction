@@ -68,4 +68,3 @@ If you find this code helpful for your research or project, please consider citi
       url = {https://preprints.jmir.org/preprint/51326},
       doi = {https://doi.org/10.2196/preprints.51326}
     }
-![image](https://github.com/CMI-Laboratory/UTI_AntibioticResistance_Prediction/assets/67408403/605f546b-0257-4677-86c7-7d2f1cfcc5ee)
